@@ -5962,3 +5962,13 @@ label {
 .slider-drag .swiper-slide {
   cursor: none;
 }
+@media(max-width:991px) and (min-width:576px){
+	#homepage-img{
+		max-width : 80%;
+	}
+}
+@media(max-width:575px){
+	#homepage-img{
+		max-width: 50%;
+	}
+}
