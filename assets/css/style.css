@@ -2833,7 +2833,7 @@ label {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background: var(--tg-black-two);
+	background: white;
 	border-radius: 20px;
 	cursor: pointer;
 }
